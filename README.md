@@ -34,11 +34,3 @@ This section provides a quick overview of the total number of titles available o
 
 ### Summary
 The dashboard provides a comprehensive overview of Netflix's content library, including the total number of titles, distribution across countries, content types, ratings, and trends over the year. It also highlights key metrics such as the average duration of content and the number of directors contributing to the platform.
-
-
-Maximize compose field
-Attach an image to your conversation with Nihara Mishra
-Attach a file to your conversation with Nihara Mishra
-Open GIF Keyboard
-
-Open Emoji Keyboard
